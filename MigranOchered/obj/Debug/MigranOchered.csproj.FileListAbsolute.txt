@@ -1,0 +1,14 @@
+C:\Users\gekto\source\repos\MigranOchered\MigranOchered\bin\Debug\MigranOchered.exe.config
+C:\Users\gekto\source\repos\MigranOchered\MigranOchered\bin\Debug\MigranOchered.exe
+C:\Users\gekto\source\repos\MigranOchered\MigranOchered\bin\Debug\MigranOchered.pdb
+C:\Users\gekto\source\repos\MigranOchered\MigranOchered\obj\Debug\MigranOchered.csprojAssemblyReference.cache
+C:\Users\gekto\source\repos\MigranOchered\MigranOchered\obj\Debug\MigranOchered.csproj.CoreCompileInputs.cache
+C:\Users\gekto\source\repos\MigranOchered\MigranOchered\obj\Debug\MigranOchered.exe
+C:\Users\gekto\source\repos\MigranOchered\MigranOchered\obj\Debug\MigranOchered.pdb
+C:\Users\migra\Downloads\repos\MigranOchered\MigranOchered\bin\Debug\MigranOchered.exe.config
+C:\Users\migra\Downloads\repos\MigranOchered\MigranOchered\bin\Debug\MigranOchered.exe
+C:\Users\migra\Downloads\repos\MigranOchered\MigranOchered\bin\Debug\MigranOchered.pdb
+C:\Users\migra\Downloads\repos\MigranOchered\MigranOchered\obj\Debug\MigranOchered.csproj.AssemblyReference.cache
+C:\Users\migra\Downloads\repos\MigranOchered\MigranOchered\obj\Debug\MigranOchered.csproj.CoreCompileInputs.cache
+C:\Users\migra\Downloads\repos\MigranOchered\MigranOchered\obj\Debug\MigranOchered.exe
+C:\Users\migra\Downloads\repos\MigranOchered\MigranOchered\obj\Debug\MigranOchered.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RequestToCash", "MigranOchered\RequestToCash.csproj", "{62476121-180B-4A85-95D8-9BE7F81C46FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62476121-180B-4A85-95D8-9BE7F81C46FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62476121-180B-4A85-95D8-9BE7F81C46FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62476121-180B-4A85-95D8-9BE7F81C46FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62476121-180B-4A85-95D8-9BE7F81C46FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7AF289E-A052-4172-9BA1-968C654D7274}
+	EndGlobalSection
+EndGlobal
